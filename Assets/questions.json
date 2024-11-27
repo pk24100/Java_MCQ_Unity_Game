@@ -1,0 +1,101 @@
+[
+    {
+        "Question": "What is the purpose of the 'this' keyword in Java?",
+        "Answers": [
+            "To create objects",
+            "To access static methods",
+            "To refer to the current object",
+            "To import libraries"
+        ],
+        "CorrectAnswer": 3,
+        "Difficulty": "Easy"
+    },
+    {
+        "Question": "Which Java package is used for database connectivity?",
+        "Answers": [
+            "java.lang",
+            "java.util",
+            "java.sql",
+            "(link unavailable)"
+        ],
+        "CorrectAnswer": 3,
+        "Difficulty": "Easy"
+    },
+    {
+        "Question": "What is the difference between 'break' and 'continue' statements in Java?",
+        "Answers": [
+            "break skips loops, continue skips conditions",
+            "break exits loops, continue skips iterations",
+            "break skips iterations, continue exits loops",
+            "break exits conditions, continue skips loops"
+        ],
+        "CorrectAnswer": 2,
+        "Difficulty": "Easy"
+    },
+    {
+        "Question": "What is the main difference between HashMap and Hashtable in Java?",
+        "Answers": [
+            "HashMap is synchronized, Hashtable is not",
+            "HashMap is not synchronized, Hashtable is",
+            "HashMap uses linked lists, Hashtable uses arrays",
+            "HashMap allows null keys, Hashtable does not"
+        ],
+        "CorrectAnswer": 2,
+        "Difficulty": "Medium"
+    },
+    {
+        "Question": "Which Java concept allows a subclass to provide a specific implementation for a method already defined in its superclass?",
+        "Answers": [
+            "Overloading",
+            "Overriding",
+            "Inheritance",
+            "Polymorphism"
+        ],
+        "CorrectAnswer": 2,
+        "Difficulty": "Medium"
+    },
+    {
+        "Question": "What is the purpose of the 'finalize()' method in Java?",
+        "Answers": [
+            "To initialize objects",
+            "To clean up resources before garbage collection",
+            "To handle exceptions",
+            "To synchronize threads"
+        ],
+        "CorrectAnswer": 2,
+        "Difficulty": "Medium"
+    },
+    {
+        "Question": "What is the primary difference between Checked and Unchecked exceptions in Java?",
+        "Answers": [
+            "Checked exceptions are runtime, Unchecked are compile-time",
+            "Checked exceptions are compile-time, Unchecked are runtime",
+            "Checked exceptions inherit from Exception, Unchecked from Error",
+            "Checked exceptions are subclassed from Throwable, Unchecked from Exception"
+        ],
+        "CorrectAnswer": 2,
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "Which Java feature allows multiple threads to share the same method but execute different instances of the method's local variables?",
+        "Answers": [
+            "Synchronization",
+            "Thread Pooling",
+            "Thread Localization",
+            "Thread-Safe Static"
+        ],
+        "CorrectAnswer": 3,
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "What is the purpose of the 'wait()' and 'notify()' methods in Java multithreading?",
+        "Answers": [
+            "To pause/resume thread execution for I/O operations",
+            "To synchronize thread access to shared resources",
+            "To manage thread priority and scheduling",
+            "To facilitate inter-thread communication and coordination"
+        ],
+        "CorrectAnswer": 4,
+        "Difficulty": "Hard"
+    }
+]
